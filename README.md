@@ -12,7 +12,7 @@
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
 
-  <a href="https://twitter.com/mohitt_thakur04" target="_blank">
+  <a href="https://x.com/mohitt_thakur04" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
   </a>
 
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java" />
   
   <!-- OOP (Java badge as placeholder) -->
-  <img src="https://img.shields.io/badge/OOP-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="oop" />
+  <img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge" alt="oop" />
 </p>
 
 

@@ -8,10 +8,20 @@
 
 ## 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/mohitjaryal4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
-<a href="https://twitter.com/mohitt_thakur04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="30" /></a>
-<a href="mailto:reach.mohitjaryal@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/mohitjaryal4" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+
+  <a href="https://twitter.com/mohitt_thakur04" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+  </a>
+
+  <a href="mailto:reach.mohitjaryal@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
 </p>
+
+
 
 ---
 

@@ -80,6 +80,3 @@
 </p>
 
 ---
-
-## 🎯 Fun fact
-⚡ I love coffee ☕ & exploring new technologies 🚀

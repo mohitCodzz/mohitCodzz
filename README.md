@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitCodzz&theme=tokyonight" alt="YOUR_USERNAME" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitCodzz&theme=tokyonight" alt="mohitCodzz" />
 </p>
 
 <p align="center">

@@ -29,11 +29,11 @@
 ## 💻 Languages and Tools:
 <p align="center">
   <!-- HTML -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
   
   <!-- CSS -->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-
   <!-- Tailwind CSS -->
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss" />
   
@@ -61,6 +61,12 @@
   <!-- OOP (Java badge as placeholder) -->
   <img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge" alt="oop" />
 </p>
+
+<!-- Netlify -->
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
+
+<!-- Vercel -->
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
 
 
 

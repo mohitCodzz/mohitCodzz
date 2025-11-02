@@ -5,8 +5,7 @@
 </p>
 
 
-<h1 align="center">👋 Hey there, I'm <span style="color:#00C9FF;">Mohit</span></h1>
-<h3 align="center">🚀 Innovating the Web, One Line of Code at a Time</h3>
+<h1 align="center">👋 Hey there, I'm <span style="color:#00C9FF;">Mohit Jaryal</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=🌙+In+the+noise,+I+build+silence+that+speaks;🚀+Evolving+beyond+limits;💭+Dream+Build+Evolve+Repeat;🌍+Crafting+experiences+that+leave+a+mark;✨+Evolving,+learning,+and+innovating+every+day" alt="Typing SVG" />

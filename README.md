@@ -1,91 +1,105 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Mohit</h1>
-<h3 align="center">A passionate developer from India 🌍</h3>
+<!-- 🌟 PROFILE HEADER -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#00C9FF;">Mohit</span></h1>
+<h3 align="center">🚀 Innovating the Web, One Line of Code at a Time</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/mohitCodz/mohitCodz/main/coding.gif" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=🌙+In+the+noise,+I+build+silence+that+speaks;🚀+Evolving+beyond+limits;💭+Dream+Build+Evolve+Repeat;🌍+Crafting+experiences+that+leave+a+mark;✨+Evolving,+learning,+and+innovating+every+day" alt="Typing SVG" />
+
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohitCodz/mohitCodz/main/coding.gif" alt="Coding Animation" width="400" />
+</p>
 
 ---
 
-## 🌐 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/mohitjaryal4" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/mohitjaryal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-<a href="https://x.com/mohitt_thakur04" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/X%20(formerly%20Twitter)-black?style=for-the-badge&logo=&logoColor=white" alt="(formerly Twitter)" />
-</a>
-
-
-  <a href="mailto:reach.mohitjaryal@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  <a href="https://x.com/mohitt_thakur04" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:reach.mohitjaryal@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+---
 
+## 💻 Tech Stack & Tools
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=90&section=header"/>
+</p>
+
+<div align="center">
+
+### 🐍 Programming Languages  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OOP-00A86B?style=for-the-badge&logo=codeproject&logoColor=white"/>
+</p>
+
+### 🎨 Frontend Technologies  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-00D8FF?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
+
+### ⚙️ Backend & Databases  
+<p>
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+### 🧰 Tools, Platforms & Deployment  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=90&section=footer"/>
+</p>
 
 ---
 
-## 💻 Languages and Tools:
+## ⚡ GitHub Insights
 <p align="center">
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-  <!-- HTML -->
-  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-  
-  <!-- CSS -->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-  <!-- Tailwind CSS -->
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss" />
-  
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-  
-  <!-- React -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
-  
-  <!-- Node.js -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
-  
-  <!-- Express -->
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" />
-  
-  <!-- C -->
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" />
-  
-  <!-- C++ -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" />
-  
-  <!-- Java -->
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java" />
-  
-  <!-- OOP (Java badge as placeholder) -->
-  <img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge" alt="oop" />
-</p>
-
-<!-- Netlify -->
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
-
-<!-- Vercel -->
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
-
-
-
-
----
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitCodzz&show_icons=true&locale=en&theme=tokyonight" alt="YOUR_USERNAME" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitjaryal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohitjaryal&theme=tokyonight&hide_border=true" height="165px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitCodzz&theme=tokyonight" alt="mohitCodzz" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohitCodzz&theme=tokyonight&no-frame=true&row=1&column=6" alt="mohitCodzz" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohitjaryal&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
+
+## 💫 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFA3&center=true&vCenter=true&width=700&lines=💡+I+love+turning+complex+ideas+into+simple,+elegant+solutions;🚀+Still+learning,+Still+Evolving;🎯+Building+for+impact,+not+just+for+code" alt="About Typing" />
+</p>
+
+---
+
+
+<h3 align="center">✨ The journey never ends — just new ideas waiting to be built.</h3>
+<!-- <h2 align="center"> The story doesn’t end — it just evolves. </h2> -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=footer"/>
+</p>

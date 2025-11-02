@@ -1,4 +1,10 @@
 <!-- 🌟 PROFILE HEADER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=90&section=header"/>
+</p>
+
+
 <h1 align="center">👋 Hey there, I'm <span style="color:#00C9FF;">Mohit</span></h1>
 <h3 align="center">🚀 Innovating the Web, One Line of Code at a Time</h3>
 
@@ -29,9 +35,6 @@
 ---
 
 ## 💻 Tech Stack & Tools
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=90&section=header"/>
-</p>
 
 <div align="center">
 
@@ -101,5 +104,5 @@
 <!-- <h2 align="center"> The story doesn’t end — it just evolves. </h2> -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9FF&height=100&section=footer&animation=twinkling" />
 </p>

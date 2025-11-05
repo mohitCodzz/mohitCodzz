@@ -81,9 +81,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mohitjaryal&theme=tokyonight&hide_border=true" height="165px"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohitjaryal&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+</p> -->
 
 ---
 

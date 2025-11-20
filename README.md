@@ -44,7 +44,7 @@
 
 ---
 
-## ⚙️ Tech Universe  
+## ⚙️ Tech Stack
 
 <div align="center">
 
@@ -73,19 +73,19 @@
 
 ---
 
-## 🧠 Featured Quote  
+## 🧠 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFA3&center=true&vCenter=true&width=700&lines=💭+In+code,+we+don’t+just+solve+problems+—+we+create+possibilities." alt="Quote" />
 </p>
 
 ---
 
-## 🪄 Aesthetic Touch  
+## 🪄 
 <p align="center">
   <img src="https://github.com/mayhemantt/mayhemantt/blob/master/Assets/Developer.gif?raw=true" width="350px"/>
 </p>
 
-<h3 align="center">✨ Keep evolving, keep building, and let your code tell your story.</h3>
+<h3 align="center">✨ The journey never ends — just new ideas waiting to be built.</h3>
 
 ---
 

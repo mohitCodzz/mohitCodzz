@@ -62,7 +62,7 @@
 ## ⚡ GitHub Analytics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohitjaryal&show_icons=true&theme=radical&hide_border=true" height="165px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitjaryal&theme=radical&hide_border=true" height="165px"/>
+
 </p>
 
 <p align="center">

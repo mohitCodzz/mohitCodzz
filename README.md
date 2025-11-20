@@ -22,14 +22,13 @@
 - 🌌 I code at the intersection of **creativity, logic, and innovation**    
 - ⚡ I believe every line of code should **solve, inspire, and evolve**
 - ⚙️ Energy of caffeine, clarity of logic, vision of tomorrow.
-- 📬 Reach me at: **[reach.mohitjaryal@gmail.com](mailto:reach.mohitjaryal@gmail.com)**  
 
 ---
 
 ## 🌎 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/mohitjaryal"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://x.com/mohitt_thakur04"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="https://x.com/mohitjaryal04"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
   <a href="mailto:reach.mohitjaryal@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
   <a href="https://github.com/mohitjaryal"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>

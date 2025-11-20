@@ -27,11 +27,20 @@
 
 ## 🌎 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/mohitjaryal"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://x.com/mohitjaryal04"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="mailto:reach.mohitjaryal@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://github.com/mohitjaryal"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://linkedin.com/in/mohitjaryal">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://x.com/mohitjaryal04">
+    <img src="https://skillicons.dev/icons?i=x" height="40"/>
+  </a>
+  <a href="mailto:reach.mohitjaryal@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  <a href="https://github.com/mohitjaryal">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
 </p>
+
 
 ---
 

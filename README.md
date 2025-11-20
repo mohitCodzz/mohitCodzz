@@ -1,5 +1,3 @@
-<!-- 🌌 MOHIT JARYAL — NEXT-GEN PORTFOLIO README -->
-
 <!-- Header Banner -->
 <p align="center">
   <img src="https://github.com/DenverCoder1/readme-typing-svg/blob/main/demo.gif?raw=true" alt="animated header" width="100%"/>
@@ -31,7 +29,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="https://x.com/mohitjaryal04">
-    <img src="https://skillicons.dev/icons?i=x" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" height="40"/>
   </a>
   <a href="mailto:reach.mohitjaryal@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>

@@ -70,12 +70,12 @@
 </p>
 
 ---
-
+<!--
 ## 🧠 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFA3&center=true&vCenter=true&width=700&lines=💭+In+code,+we+don’t+just+solve+problems+—+we+create+possibilities." alt="Quote" />
 </p>
-
+ -->
 ---
 
 ## 🪄 

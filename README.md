@@ -7,15 +7,13 @@
 <h3 align="center">🌙 In the noise, I build silence that speaks</h3>
 
 ---
-
-### 🌠 About Me  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00FFB9&center=true&vCenter=true&width=600&lines=🧠+Engineer+%7C+Creator+%7C+Dreamer;🚀+Turning+visions+into+reality;🚀+Evolving+beyond+limits;🌍+Exploring+Tech,+AI,+and+Beyond;" alt="Typing intro"/>
 </p>
 
 ---
 
-### 💡 Quick Facts  
+### 💡 About Me   
 - 🧑‍💻 Passionate about **building impactful solutions**
 - 🌌 I code at the intersection of **creativity, logic, and innovation**    
 - ⚡ I believe every line of code should **solve, inspire, and evolve**

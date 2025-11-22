@@ -50,10 +50,10 @@
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,typescript" height="40"/>
 
 ### 🧩 Frameworks & Libraries  
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,firebase,threejs" height="40"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,firebase" height="40"/>
 
 ### 🛠️ Tools & Platforms  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman,docker,figma" height="40"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,docker,figma" height="40"/>
 
 </div>
 

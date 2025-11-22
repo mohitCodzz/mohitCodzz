@@ -50,6 +50,7 @@
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,typescript" height="40"/>
 
 ### 🧩 Frameworks & Libraries  
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" height="40" alt="NumPy"/>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,firebase" height="40"/>
 
 ### 🛠️ Tools & Platforms  

@@ -8,7 +8,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00FFB9&center=true&vCenter=true&width=600&lines=🧠+Engineer+%7C+Creator+%7C+Dreamer;🚀+Turning+visions+into+reality;🚀+Evolving+beyond+limits;🌍+Exploring+Tech,+AI,+and+Beyond;" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00FFB9&center=true&vCenter=true&width=600&lines=🚀+Turning+visions+into+reality;🚀+Evolving+beyond+limits;🌍+Exploring+Tech,+AI,+and+Beyond;" alt="Typing intro"/>
 </p>
 
 ---
